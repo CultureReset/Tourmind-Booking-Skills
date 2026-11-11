@@ -1,3 +1,14 @@
+> **CultureReset fork of [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills).** AI agent skills for end-to-end hotel and flight booking—compare live hotel rates across leading OTAs and suppliers, search and verify real-time airfares worldwide, book stays and flights, and manage reservations, hotel cancellations, and payments via the TourMind API.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/tourmind-com/Tourmind-Booking-Skills).
+>
+> The upstream README follows unchanged.
+
+---
+
 <div align="center">
 
 <h1 style="border-bottom: none">
